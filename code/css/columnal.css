@@ -148,7 +148,7 @@ a img {display: block;		/* Stops image links getting text link styles */}
 /* Column code based on work from cssgrid.net: 
 The 1140px Grid by Andy Taylor – http://cssgrid.net – http://www.twitter.com/andytlr – http://www.catchingzebra.com */
 .container {padding-left: 20px; padding-right: 20px;}
-.row {clear: both; width: 100%; max-width: 1140px; margin: 0 auto; overflow: hidden;}
+.row {clear: both; width: 100%; max-width: 1140px; margin: 0 auto;}
 
 .col_1, .col_2, .col_3, .col_4, .col_5, .col_6, .col_7, .col_8, .col_9, .col_10, .col_11 {float: left; margin-right: 3.8%; position: relative;}
 

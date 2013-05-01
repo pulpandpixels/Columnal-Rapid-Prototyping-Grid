@@ -11,7 +11,7 @@ body {
 
 /*
 _______________________________
-Mobile version - preset code from cssgrid.net */
+Mobile version - single break point */
 
 @media handheld, only screen and (max-width: 767px) {
 
@@ -24,7 +24,7 @@ Mobile version - preset code from cssgrid.net */
 
 /*
 _______________________________
-Provide higher res assets for iPhone 4 - preset code from cssgrid.net */
+Provide higher res assets for higher resolution mobile screens */
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2) { 
 
